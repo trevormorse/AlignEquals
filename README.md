@@ -26,4 +26,4 @@ $ git clone https://github.com/trevormorse/AlignEquals AlignEquals
 
 ## Usage
 
-Select the text you would like to have the equals and then press ```alt+ctrl+=``` on Linux and Windows or ```alt+cmd+=``` on OSX.
+Select the text you would like to have the equals and then press ```alt+=```.
