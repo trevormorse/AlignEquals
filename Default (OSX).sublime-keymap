@@ -1,6 +1,6 @@
 [
     {
-        "caption": "Align Equals",
+        "keys":    ["alt+cmd+="],
         "command": "align_equals",
         "args":    {}
     }
