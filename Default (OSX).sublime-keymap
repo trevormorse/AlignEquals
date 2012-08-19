@@ -1,6 +1,6 @@
 [
     {
-        "keys":    ["alt+cmd+="],
+        "keys":    ["alt+="],
         "command": "align_equals",
         "args":    {}
     }
