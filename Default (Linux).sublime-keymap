@@ -1,0 +1,7 @@
+[
+    {
+        "keys":    ["alt+ctrl+="],
+        "command": "align_equals",
+        "args":    {}
+    }
+]
